@@ -1,0 +1,3 @@
+method,n_peaks,overall_max_peak,transient_end_time,first_steady_peak_index,transient_peak_count,transient_peak_max,transient_peak_mean,steady_peak_count,steady_peak_max,steady_peak_mean,steady_mean_used_for_detection
+Euler,19,0.6762353456733288,,,19,0.6762353456733288,0.1518160139881261,0,,,0.04139850823378235
+RK4,15,0.550931211563631,,,15,0.550931211563631,0.11758446600414207,0,,,0.04909132938628376

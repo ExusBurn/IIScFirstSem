@@ -1,0 +1,11 @@
+6,SEQUENTIAL,seq,1,AVG,0.165361688,20000,100,"O(N) space",NA,NA,NA,NA,average_time_summary
+12,PARALLEL,static,1,AVG,0.186696075,20000,100,"O(N) space",NA,NA,NA,NA,average_time_summary
+18,PARALLEL,static,4,AVG,0.049339588,20000,100,"O(N) space",NA,NA,NA,NA,average_time_summary
+24,PARALLEL,static,8,AVG,0.025637544,20000,100,"O(N) space",NA,NA,NA,NA,average_time_summary
+30,PARALLEL,static,16,AVG,0.014831150,20000,100,"O(N) space",NA,NA,NA,NA,average_time_summary
+36,PARALLEL,static,32,AVG,0.011683063,20000,100,"O(N) space",NA,NA,NA,NA,average_time_summary
+42,PARALLEL,dynamic,1,AVG,0.201291758,20000,100,"O(N) space",NA,NA,NA,NA,average_time_summary
+48,PARALLEL,dynamic,4,AVG,0.110448129,20000,100,"O(N) space",NA,NA,NA,NA,average_time_summary
+54,PARALLEL,dynamic,8,AVG,0.106629201,20000,100,"O(N) space",NA,NA,NA,NA,average_time_summary
+60,PARALLEL,dynamic,16,AVG,0.103852149,20000,100,"O(N) space",NA,NA,NA,NA,average_time_summary
+66,PARALLEL,dynamic,32,AVG,0.108074890,20000,100,"O(N) space",NA,NA,NA,NA,average_time_summary
